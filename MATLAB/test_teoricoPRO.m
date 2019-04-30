@@ -6,7 +6,7 @@ dc=0;
 
 figure; hold on
 xlabel('Informazione')
-ylabel('Stabilit‡')
+ylabel('Stabilit√†')
 BIG_media = zeros(3,5);
 Expected_param2 = Exp_KL1(n,T);
 Expected_param3 = Exp_KL2(n,T);
